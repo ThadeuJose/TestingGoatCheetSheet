@@ -1,5 +1,28 @@
+body{ 
+    background-color: #E8E8E8;    
+    color: #181A18;
+}
+
+a {
+    color: #A66FBB;
+    text-decoration: none;
+    outline: none;
+}
+
+h1, h2, i {
+    color: #A66FBB;
+}
+
 li {
     margin-bottom: 5px;
+}
+
+.icon {
+    color: #A66FBB;
+    width: 14px;
+    height: 14px;
+    margin-left: 3px;
+    vertical-align: -2px;
 }
 
 .mt-0{
@@ -36,3 +59,4 @@ li {
 .imgtdd:hover + .hide {
     display: block;
 }
+
